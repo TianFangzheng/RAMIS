@@ -1,7 +1,7 @@
 # RAMIS: Increasing Robustness and Accuracy in Medical Image Segmentation with Hybrid CNN-Transformer Synergy
 
 This is the offical repo of RAMIS
-[[`Paper`](????????????)]
+[[`Paper`](https://github.com/TianFangzheng/RAMIS)]
 [[`Project page`](https://grape2dpose.netlify.app)]
 
 
@@ -19,8 +19,8 @@ Pytorch: 1.12.1
 ### 1. Clone code
 
 ```shell
-git clone https://github.com/TianFangzheng/ramis.git
-cd grape2dpose
+git clone https://github.com/TianFangzheng/RAMIS.git
+cd RAMIS
 ```
 
 ### 2. Create a conda environment for this repo
