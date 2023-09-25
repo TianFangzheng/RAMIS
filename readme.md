@@ -6,7 +6,7 @@
 
 This is the offical repo of RAMIS
 [[`Paper`](https://github.com/TianFangzheng/RAMIS)]
-[[`Project page`](https://grape2dpose.netlify.app)]
+[[`Project page`](https://ramis.netlify.app)]
 
 
 ## Environment
