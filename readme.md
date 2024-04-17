@@ -1,7 +1,6 @@
 ## The code has been sorted out. Once the paper is accepted, it will be uploaded immediately
 
 
-
 # RAMIS: Increasing Robustness and Accuracy in Medical Image Segmentation with Hybrid CNN-Transformer Synergy
 
 This is the offical repo of RAMIS
