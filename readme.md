@@ -1,4 +1,4 @@
-## The code has been sorted out. Once the paper is accepted, it will be uploaded immediately
+## The code and pre-trained models have been sorted out. The pre-trained models are already accessible via the link. Once the paper is accepted, the code will be uploaded immediately.
 
 
 # RAMIS: Increasing Robustness and Accuracy in Medical Image Segmentation with Hybrid CNN-Transformer Synergy
