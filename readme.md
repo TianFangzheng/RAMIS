@@ -1,10 +1,7 @@
-## The code and pre-trained models have been sorted out. The pre-trained models are already accessible via the [[Quick start -> 1. Download trained model](https://github.com/TianFangzheng/RAMIS?tab=readme-ov-file#quick-start)]. Once the paper is accepted, the code will be uploaded immediately.
-
-
 # RAMIS: Increasing Robustness and Accuracy in Medical Image Segmentation with Hybrid CNN-Transformer Synergy
 
 This is the offical repo of RAMIS
-[[`Paper`](https://github.com/TianFangzheng/RAMIS)]
+[[`Paper`](https://doi.org/10.1016/j.neucom.2024.129009)]
 [[`Project page`](https://ramis.netlify.app)]
 
 
